@@ -65,3 +65,9 @@ The Payment and Review screen shows all the shipping details, an order summary, 
 
 *\[Figure-10\]*
 
+## E-Commerce features and functions of Booktopia
+Booktopia has been designed specifically to make it as easy as possible for users to quickly purchase the items they want. How they have done this can be seen throughout every level of the sale. I’ll drill down into more detail in the sections below.
+
+### Product catalogues
+The Booktopia website have categorised all their products via a range of different scales. They have categorised in the top menu by item type and its genre
+
