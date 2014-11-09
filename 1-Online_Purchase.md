@@ -2,7 +2,7 @@
 
 Booktopia is one of Australia’s leading online bookstores. 100% Australian-owned and operated, it has a Sydney-based Call Centre and donates to many local causes.
 
-I have chosen to review the E-Commerce capabilities of the Booktopia site as it uses many of the best practices. This section of the report will detail how Booktopia complies with these best practices as well as include a transaction with Booktopia from start to finish.
+I have chosen to review the E-Commerce capabilities of the Booktopia site as it uses many of the best practices. This section of the report will detail how Booktopia complies with these best practices as well as including a transaction with Booktopia from start to finish.
 
 ## Table of Contents
 1.  [Buying a product on Booktopia](#buying)
@@ -115,3 +115,9 @@ Once inside the section, for this example, inside Science Fiction in the Fiction
 
 ## <a name="conclusion"></a> Conclusion
 Overall, the purchasing experience on this website was easy to follow and very quick to execute.
+
+Buying a product on Booktopia was a simple [process](#buying) of searching for I want, adding it to the shopping cart and then purchasing it.
+
+The excellent [e-commerce](#features) features of the site helping make the purchasing process as easy as possible.
+
+The real [highlight](#structure) of the Booktopia website was how well it was structured and the ease of navigating to the desired product.
