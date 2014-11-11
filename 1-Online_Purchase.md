@@ -116,8 +116,8 @@ Once inside the section, for this example, inside Science Fiction in the Fiction
 ## <a name="conclusion"></a> Conclusion
 Overall, the purchasing experience on this website was easy to follow and very quick to execute.
 
-Buying a product on Booktopia was a simple [process](#buying) of searching for I want, adding it to the shopping cart and then purchasing it.
+Buying a product on Booktopia was a simple [process](#buying) of searching for what I want, adding it to the shopping cart and then purchasing it.
 
-The excellent [e-commerce](#features) features of the site helping make the purchasing process as easy as possible.
+The excellent [e-commerce](#features) features of the site helped make the purchasing process as easy as possible.
 
 The real [highlight](#structure) of the Booktopia website was how well it was structured and the ease of navigating to the desired product.
