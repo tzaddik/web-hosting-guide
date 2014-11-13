@@ -1,5 +1,11 @@
 # <a name="top"></a> E-Commerce Site Review – Booktopia.com.au
 
+## Report Menu
+1. [Introduction and Conclusion](https://www.github.com/tzaddik/web-hosting-guide/blob/master/README.md)
+2. [1 - Online Purchasing](https://www.github.com/tzaddik/web-hosting-guide/blob/master/1-Online_Purchase.md)
+3. [2 - Web Host Comparison](https://www.github.com/tzaddik/web-hosting-guide/blob/master/2-Web_Host_Comparison.md)
+4. [3 - Website Administrative Procedures](https://www.github.com/tzaddik/web-hosting-guide/blob/master/3-Website_Administrative_Procedures.md)
+
 Booktopia is one of Australia’s leading online bookstores. 100% Australian-owned and operated, it has a Sydney-based Call Centre and donates to many local causes.
 
 I have chosen to review the E-Commerce capabilities of the Booktopia site as it uses many of the best practices. This section of the report will detail how Booktopia complies with these best practices as well as including a transaction with Booktopia from start to finish.
