@@ -171,24 +171,42 @@ There are many different ways to setup an e-commerce site. You can either use a 
 The most important feature with an e-commerce site is security, and some web host companies provide extra payment technology features to help their clients make more secure sites.
 
 ### Panthur
-Panthur allow users to install an eCommerce-based CMS but don't seem to offer any extra security specifically related to payment technologies. **Rating: 4/10**
+Panthur allow users to install an eCommerce-based CMS but don't seem to offer any extra security specifically related to payment technologies. **Rating: 6/10**
 
 ### SiteGround
+SiteGround allow users to install an eCommerce-based CMS via **Softaculous**.
 
-
-With their premium plan, they offer Payment Card Industry Data Security Standard(PCI DSS).
+With their premium plan, they offer **Payment Card Industry Data Security Standard(PCI DSS)** compliance. It consists of 12 security requirements, aimed at safeguarding credit card holder details, preventing credit card fraud and other security risks. It covers all credit cards with the logos of Visa, MasterCard, American Express, Discover or JCB. **Rating: 10/10**
 
 ### Netregistry
-Netregistry allow users to install an eCommerce-based CMS but don't seem to offer any extra security specifically related to payment technologies. **Rating: 4/10**
+Netregistry allow users to install an eCommerce-based CMS but don't seem to offer any extra security specifically related to payment technologies. **Rating: 6/10**
 
 ## <a name="conclusion"></a> Conclusion
+As I said at the start, I have used all three of these companies and in comparison to large international web hosting providers such as **GoDaddy** and **HostGator**, they are all very good value. I would recommend any of them to someone building a website.
 
+There is a clear winner though, as the ratings indicate. I will do a summery for each company below.
 
 ### Panthur
+**Final Rating: 80**
 
+Panthur's three main strengths in this comparison were the free domain privacy, fully unlimited email services and the highly advanced backup/restore services.
+
+Their .au domain names are also the cheapest I have found on the internet and only got beaten out by SiteGround as they offer them free with web hosting.
+
+The low bandwidth is what killed them in this comparison. It was still good for economy plans, but couldn't compare to what the other two companies offered.
 
 ### SiteGround
+**Final Rating: 96**
 
+SiteGround's final rating shows just how good they are in relation to their competitors.
+
+With a heavy focus on server security and performance, SiteGround offer premium services at a very low cost. Even their cheapest plan contains an array of features such as unlimited data bandwidth, unlimited databases and unlimited email.
+
+The only real weakness in this comparison was the cost of domain privacy. For a local website that wouldn't even matter as domain privacy isn't allowed on .au extensions.
 
 ### Netregistry
+**Final Rating: 60**
+
+Netregistry's final rating is a bit unfair as a guide for the services they offer. It is only low in comparison to the great value offered by Panthur and SiteGround.
+
 
