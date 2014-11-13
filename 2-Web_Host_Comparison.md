@@ -124,42 +124,62 @@ SiteGround have **Softaculous** installed with all their hosting plans. This pro
 They also have a program called **SPAM Experts** which provides protection for incoming and outgoing emails. **Rating: 10/10**
 
 ### Netregistry
-They provide a program called  **Website Builder**, that helps the client build a static website from scratch following a few simple steps. **Rating 5/10**
+Their features list doesn't mention which program they use, but it does say that they support the one-click installation of all the major CMS.
+They provide a program called  **Website Builder**, that helps the client build a static website from scratch following a few simple steps. **Rating 6/10**
 
 ## <a name="performance"></a>Performance monitoring
+One of the tasks many web admins perform is the monitoring of site performance. This is usually done to ensure that features on the site are functioning correctly and not causing an unnecessary overuse of server resources.
+
+It can also mean the monitoring of web traffic, keeping track of where users are coming from, and what they are doing on your site.
 
 ### Panthur
+As Panthur restricts the bandwidth usage on their economy hosting plans, they offer a bandwidth manager for their clients. This tells the user how much bandwidth they have used for the month and how close they are to exceeding it.
 
+They also offer **Webalizer** and **AWStats**, which are advanced monitoring tools that monitors bandwidth as well as number of visitors, unique visitors, page views and hits. **Rating: 9/10**
 
 ### SiteGround
+SiteGround provide server performance monitoring tools, which allow the user to keep track of CPU and memory usage.
 
+They also offer **Webalizer** and **AWStats**, which are advanced monitoring tools that monitors bandwidth as well as number of visitors, unique visitors, page views and hits. **Rating: 9/10**
 
 ### Netregistry
-
+NetRegistry offer basic web traffic reporting and a monitoring tool to keep track of monthly bandwidth usage. **Rating: 6/10**
 
 ## <a name="backup"></a>Backup and restore services
+The most important thing for a website is a proper backup routine. No matter how secure the web server, it can be hacked or lost in a disaster so the lack of a backup can destroy a website and cripple an e-commerce business.
 
+Many web hosting companies provide solutions to help their clients perform this critical operation.
 
 ### Panthur
+Panthur perform daily backups automatically of all the client's websites, and keeps these daily backups for a period of 30 days.
 
+In the event of the client wanting one of these backups restored, it can be done using a program called **Click Restore**. **Rating: 10/10**
 
 ### SiteGround
+SiteGround perform daily backups automatically of all the client's websites, and keeps these daily backups for a period of 30 days.
 
+Users on any plan but the most basic one can access these backups and restore any copy they wish to. The premium plan even offers unlimited restore support, where one of SiteGround's support staff will manually restore the site themselves, taking all the technical steps out of the process for non-technical users.
+
+Those on the basic plan only have the latest backup kept by SiteGround, which they have to request access to if required. **Rating 9/10**
 
 ### Netregistry
-
+NetRegistry offer tools to perform manual backups, but as far as I can see, don't offer any automated backup or restore services for their economy plans **Rating 2/10**
 
 ## <a name="commerce"></a>Payment technology options
+There are many different ways to setup an e-commerce site. You can either use a CMS like **Magento** or **osCommerce** to build your site on, or use a plugin or extension into another CMS like **WordPress** or **Joomla**.
 
+The most important feature with an e-commerce site is security, and some web host companies provide extra payment technology features to help their clients make more secure sites.
 
 ### Panthur
-
+Panthur allow users to install an eCommerce-based CMS but don't seem to offer any extra security specifically related to payment technologies. **Rating: 4/10**
 
 ### SiteGround
 
 
-### Netregistry
+With their premium plan, they offer Payment Card Industry Data Security Standard(PCI DSS).
 
+### Netregistry
+Netregistry allow users to install an eCommerce-based CMS but don't seem to offer any extra security specifically related to payment technologies. **Rating: 4/10**
 
 ## <a name="conclusion"></a> Conclusion
 
