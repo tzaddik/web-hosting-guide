@@ -55,10 +55,10 @@ Mailing list services are used to send out marketing materials to a customer lis
 Offers fully unlimited email services. They allow an unlimited amount of email accounts and support forwarding, auto-responders, catch-all addresses and webmail access. **Rating: 10/10**
 
 ### SiteGround
-SiteGround offer unlimited email accounts and email forwarding. They also support the three most popular webmail clients, Horde, RoundCube and SquirrelMail. **Rating: 8/10**
+SiteGround offer unlimited email accounts and email forwarding. They also support the three most popular webmail clients, Horde, RoundCube and SquirrelMail. **Rating: 10/10**
 
 ### Netregistry
-They have a limited amount of email addresses and mailbox storage based on which plan is purchased. They do support forwarding, auto-responders, catch-all addresses, webmail access and server-side anti-virus scanning. **Rating: 8/10**
+They have a limited amount of email addresses and mailbox storage based on which plan is purchased. They do support forwarding, auto-responders, catch-all addresses, webmail access and server-side anti-virus scanning. **Rating: 7/10**
 
 ## <a name="data"></a>Data capacity
 This is the amount of server storage that a web hosting plan provides. Site bandwidth is also something that some web hosts limit.
@@ -101,7 +101,7 @@ SiteGround allow an unlimited amount of MySQL and PostgreSQL databases with all 
 Netregistry offer only a small amount of databases, between 3-10 across the economy hosting plans. They do support PHP, Perl and Python though. **Rating: 5/10**
  
 ## <a name="apps"></a>Server applications
-Web hosts usually provide a program like cPanel to help manage all your file and database settings.
+Web hosts usually provide a program like **cPanel** to help manage all your file and database settings.
 
 Web servers usually come with just a branded html file inside the allocated storage space. To help people build a website, especially those who want to use a Content Management System(CMS), web hosts usually provide software that help users to build these sites. This software usually does things like automate the creation of databases so less technical users can get their sites up and running with minimal fuss.
 
@@ -119,10 +119,12 @@ They also provide **Site Builder Pro**, a program that helps the client build a 
 ### SiteGround
 Offer support for **CloudFlare** to help speed up site performance and security.
 
-SiteGround have **Softaculous** installed with all their hosting plans.
+SiteGround have **Softaculous** installed with all their hosting plans. This program allows for the one-click creation of websites on all popular CMS platforms such as WordPress, Joomla and Magento.
+
+They also have a program called **SPAM Experts** which provides protection for incoming and outgoing emails. **Rating: 10/10**
 
 ### Netregistry
-
+They provide a program called  **Website Builder**, that helps the client build a static website from scratch following a few simple steps. **Rating 5/10**
 
 ## <a name="performance"></a>Performance monitoring
 
