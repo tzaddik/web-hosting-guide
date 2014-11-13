@@ -1,4 +1,4 @@
-# E-Commerce Site Review – Booktopia.com.au
+# <a name="top"></a> E-Commerce Site Review – Booktopia.com.au
 
 Booktopia is one of Australia’s leading online bookstores. 100% Australian-owned and operated, it has a Sydney-based Call Centre and donates to many local causes.
 
@@ -10,7 +10,7 @@ I have chosen to review the E-Commerce capabilities of the Booktopia site as it 
 3.  [The content structure and navigation of the site](#structure)
 4.  [Conclusion](#conclusion)
 
-## <a name="buying"></a>Buying a product on Booktopia
+## <a name="buying"></a>Buying a product on Booktopia [^](#top)
 
 ### <a name="step-1"></a>Step 1
 To get started lets head over to the Booktopia [website](http://www.booktopia.com.au) *\[Figure-1\]*
@@ -92,7 +92,7 @@ The customer profile contains a purchase history as well as managing your detail
 ### Marketing
 Booktopia uses a number of tools for marketing on its website. It advertises its latest and most prestigious awards in the top-right of the page. It also has a range of banner ads spaced around the site that advertises the latest book and movie releases as well as interviews they have done on their blog.
 
-They also make use of the leftover space to the left and right of the site on computers with large screens. At the time of this report being written, they had visual reminders there telling users when they'd need to place their orders by to recieve their shipped items before Christmas.
+They also make use of the leftover space to the left and right of the site on computers with large screens. At the time of this report being written, they had visual reminders there telling users when they'd need to place their orders by to receive their shipped items before Christmas.
 
 ### Aesthetics
 The site has a very clean design with items like the logo and main menu where you expect them to be.
@@ -104,7 +104,7 @@ When the shopping cart is open, and during the whole purchasing process after th
 
 It has a 128-bit encryption on its SSL certificate which has been provided by GeoTrust Inc.
 
-## <a name="structure"></a> The content structure and navigation of the site
+## <a name="structure"></a> The content structure and navigation of the site [^](#top)
 As shown in [Product catalogues](#product-catalogues), the navigation and structure of the site is extremely good. Everything is categorised by its item type and the genre it comes under.
 
 Going to a certain product section will bring up filters in the left sidebar to help find the specific item you are looking for. *\[Figure-13\]*
@@ -113,7 +113,7 @@ Going to a certain product section will bring up filters in the left sidebar to 
 Once inside the section, for this example, inside Science Fiction in the Fiction section, even more filters will appear to really help you get to the specific item you are looking for. *\[Figure-14\]*
 ![Figure-14](images/booktopia-contentstructure-2.png "Figure-14")
 
-## <a name="conclusion"></a> Conclusion
+## <a name="conclusion"></a> Conclusion [^](#top)
 Overall, the purchasing experience on this website was easy to follow and very quick to execute.
 
 Buying a product on Booktopia was a simple [process](#buying) of searching for what I want, adding it to the shopping cart and then purchasing it.
