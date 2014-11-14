@@ -26,21 +26,21 @@ Registering a domain with SiteGround is as easy as signing up for a web hosting 
 
 ![Figure-1](images/registerdomain.png "Figure-1")
 
-If you already have an account and want to register additional domain names, you can do this in your **Admin** area. Go to the **Order** page and use the **Register a Domain** input box to check if your desired domain is available. *\[Figure-2\]*
+If you already have an account and want to register additional domain names, you can do this in your **Admin** area. Go to the **Add Services** tab and use the **Register a Domain** input box to check if your desired domain is available. *\[Figure-2\]*
 
 ![Figure-2](images/registerdomainmember.png "Figure-2")
 
 ## <a name="lock"></a>Lock/Unlock a domain name [^](#top)
 Locking your domain is a safeguard against unauthorised domain transfers. It is recommended that you keep it locked at all times unless you are initiating a transfer.
 
-To unlock a domain name at SiteGround, go to Customer area -> My Account -> Domain names -> "Manage" *\[Figure-3\]*
+To unlock a domain name at SiteGround, go to **Admin** area -> **My Account** -> **Domain names** -> **Manage** *\[Figure-3\]*
 
 ![Figure-3](images/unlockdomain.png "Figure-3")
 
 ## <a name="private"></a>Register a domain name as private or public [^](#top)
 To hide your information in the domain name WHOIS records, you must purchase a **Domain ID Protect** service with SiteGround.
 
-You can either do this when you register the domain, or purchase it later in the **Admin** area, under the **Order** tab. *\[Figure-4\]*
+You can either do this when you register the domain, or purchase it later in the **Admin** area, under the **Add Services** tab. *\[Figure-4\]*
 
 ![Figure-4](images/privatedomain.png "Figure-4")
 
@@ -56,12 +56,12 @@ Transfering a domain to SiteGround is as easy as signing up for a web hosting pl
 
 ![Figure-5](images/transferdomain.png "Figure-5")
 
-If you already have an account and want to register additional domain names, you can do this in your **Admin** area. Go to Order->Domain Transfer *\[Figure-6\]*
+If you already have an account and want to register additional domain names, you can do this in your **Admin** area. Go to **Add Services**-> **Domain Transfer** *\[Figure-6\]*
 
 ![Figure-6](images/transferdomainmembers.png "Figure-6")
 
 ## <a name="ftp"></a>Create a new FTP user account [^](#top)
-
+Can be done in cPanel at 
 
 ## <a name="content"></a>Upload/download website content [^](#top)
 
