@@ -43,4 +43,4 @@ All up I found writing this report very informative. I learned how to:
 
 * Review the technical capabilities of a website
 * Select a web hosting company that suits my needs.
-* Get a look at what kind of knowledge is required to operate a website.
+* Get a look at what kind of technical knowledge is required to operate a website.
