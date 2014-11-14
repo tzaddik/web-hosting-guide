@@ -191,7 +191,7 @@ Netregistry allow users to install an eCommerce-based CMS but don't seem to offe
 ## <a name="conclusion"></a> Conclusion [^](#top)
 As I said at the start, I have used all three of these companies and in comparison to large international web hosting providers such as **GoDaddy** and **HostGator**, they are all very good value. I would recommend any of them to someone building a website.
 
-There is a clear winner though, as the ratings indicate. I will do a summery for each company below.
+There is a clear winner though, as the ratings indicate. I will do a summary for each company below.
 
 ### Panthur
 **Final Rating: 80**
