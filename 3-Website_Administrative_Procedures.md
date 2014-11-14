@@ -19,7 +19,6 @@ As the 'winner' of the web host comparison in [section 2](https://www.github.com
 9. [Transfer database content from local to remote server](#databasetransfer)
 10. [Manage database remotely](#manage)
 11. [Install and update WordPress](#wordpress)
-12. [Conclusion](#conclusion)
 
 ## <a name="domain"></a>Register a domain name [^](#top)
 Registering a domain with SiteGround is as easy as signing up for a web hosting plan! They offer free domain registration upon sign up, so simply enter your desired domain name into the input box. *\[Figure-1\]*
@@ -61,22 +60,42 @@ If you already have an account and want to register additional domain names, you
 ![Figure-6](images/transferdomainmembers.png "Figure-6")
 
 ## <a name="ftp"></a>Create a new FTP user account [^](#top)
-Can be done in cPanel at 
+Can be done in cPanel under the **Files** subheading at **FTP Accounts**. Once you click that just follow the prompts to create a new FTP user account. *\[Figure-7\]*
+
+![Figure-7](images/ftpaccounts.png "Figure-7")
 
 ## <a name="content"></a>Upload/download website content [^](#top)
+Can be done in cPanel under the **Files** subheading at **File Manager**. Once you click that the File Manager window will open up with an interface that allows you to manage all the files in your allocated web server space. *\[Figure-8\]*
 
+![Figure-8](images/websitecontent.png "Figure-8")
 
 ## <a name="database"></a>Create a database [^](#top)
+Can be done in cPanel under the **Databases** subheading at **MySQL Databases**. Once you click just follow the prompts to create a new database and allocate new users and permissions for that database. *\[Figure-9\]*
 
+![Figure-9](images/createdatabase.png "Figure-9")
 
 ## <a name="databasetransfer"></a>Transfer database content from local to remote server [^](#top)
+You can perform this operation in two ways, both using **phpMyAdmin** which can be done in cPanel under the **Databases** subheading at **phpMyAdmin**. *\[Figure-10\]*
 
+![Figure-10](images/phpmyadmin.png "Figure-10")
+
+
+### SQL Query
+If you have your database content in SQL code, you can copy and paste it into the query window. *\[Figure-11\]*
+
+![Figure-11](images/sqlquery.png "Figure-11")
+
+### Import/Export
+You can import and export database content under their respective tabs in **phpMyAdmin** as seen in the screenshots below. *\[Figure-12\]*
+
+![Figure-12](images/sqlimport.png "Figure-12")
+
+*\[Figure-13\]*
+
+![Figure-13](images/sqlexport.png "Figure-13")
 
 ## <a name="manage"></a>Manage database remotely [^](#top)
 
 
 ## <a name="wordpress"></a>Install and update WordPress [^](#top)
-
-
-## <a name="conclusion"></a> Conclusion [^](#top)
 
