@@ -95,7 +95,18 @@ You can import and export database content under their respective tabs in **phpM
 ![Figure-13](images/sqlexport.png "Figure-13")
 
 ## <a name="manage"></a>Manage database remotely [^](#top)
-
+All database management can be performed using either of the two options above, both the **MySQL Databases** and **phpMyAdmin** options under **Database**.
 
 ## <a name="wordpress"></a>Install and update WordPress [^](#top)
+SiteGround offers a one-click install option for installing WordPress. This can be done in cPanel under the **WordPress Tools** subheading at **WordPress Installer**. *\[Figure-14\]*
+
+![Figure-14](images/cpanelwordpress.png "Figure-14")
+
+After clicking this button, a new window opens up with options for the install. *\[Figure-15\]*
+
+![Figure-15](images/wordpressinstall.png "Figure-15")
+
+
+SiteGround also offer a number of specialised plugins for Wordpress like **SuperCacher**, which adds advanced caching capabilities to your WordPress site.
+
 
